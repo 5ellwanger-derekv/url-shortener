@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Drafted initial implementation plan for v2
 - Removed unused variable declarations
+
+## 2026-04-29
+- Resolved deprecation warnings
+- Cleaned up old debug logs
+- Noted known limitation in docs
